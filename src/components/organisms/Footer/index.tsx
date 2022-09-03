@@ -45,7 +45,8 @@ export default function Footer() {
                   freetime i usually attending online course about fullstack
                   development using javascript and build a{" "}
                   <a
-                    href=""
+                    href="https://trakteer.id/rojokundo/showcase"
+                    target="_blank"
                     className="text-secondary"
                     style={{ textDecoration: "none" }}
                   >
