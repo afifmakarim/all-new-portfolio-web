@@ -1,0 +1,10 @@
+.project {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  grid-gap: 1rem;
+  margin-bottom: 50px;
+}
+
+.round {
+  border-radius: 50px;
+}

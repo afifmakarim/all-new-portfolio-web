@@ -1,0 +1,204 @@
+{
+    "name": "Afif Makarim",
+    "description": "",
+    "photo":"../images/porto.png",
+    "skills": [{
+            "icon": "bx bx-check-square bx-lg",
+            "name": "Project Management",
+            "description": "Have experience to manage project using trello and jira"
+        },
+        {
+            "icon": "bx bxl-javascript bx-lg",
+            "name": "Web Apps Development",
+            "description": "Have amateur experience to build frontend & backend apps using PHP & Javascript based on certification from online course"
+        },
+        {
+            "icon": "bx bx-terminal bx-lg",
+            "name": "QA",
+            "description": "Have experience to build automation & manual API testing using postman, selenium and terminal"
+        }
+    ],
+    "projects": [{
+            "name": "Budayaku",
+            "platform": "Web",
+            "categories": "frontend",
+            "description": "The website was created to meet the needs of final project assignment when attending Gunadarma Lab TI",
+            "framework": "CodeIgniter",
+            "imageUrl": [{
+                "image": "../images/projects/budayaku.jpg"
+            },{
+                "image": "../images/projects/budayaku-1.png"
+            }],
+            "url": "https://github.com/afifmakarim/web-budayaku-code-igniter"
+        },
+        {
+            "name": "Suikoden Guide",
+            "platform": "Android Apps",
+            "categories": "frontend",
+            "description": "A complete guide for Suikoden series a classic Japanese role-playing video game",
+            "framework": "Ionic",
+            "imageUrl": [{
+                "image": "../images/projects/suikoden-guide.jpg"
+            },{
+                "image": "../images/projects/suikoden-guide-1.jpg"
+            }],
+            "url": "https://apkpure.com/suikoden-guide/io.rojofactory.suikoden"
+        },
+        {
+            "name": "Tamako BOT",
+            "platform": "LINE Messenger",
+            "framework": "CodeIgniter",
+            "categories": "backend",
+            "description": "LINE Messenger Group Chat Assistant",
+            "imageUrl": [{
+                "image": "../images/projects/tamako-bot.jpg"
+            },{
+                "image": "../images/projects/tamako-bot-1.jpg"
+            }],
+            "url": "https://line.me/R/ti/p/%40xxs7002u"
+        },
+        {
+            "name": "StayCation",
+            "platform": "Web",
+            "framework": "ReactJS",
+            "categories": "frontend",
+            "description": "Front End Project from kelas BWA MERN",
+            "imageUrl": [{
+                "image": "../images/projects/staycation.jpg"
+            },{
+                "image": "../images/projects/staycation.jpg"
+            }],
+            "url": "https://github.com/afifmakarim/bwamern"
+        },
+        {
+            "name": "Restaurant App",
+            "platform": "PWA",
+            "framework": "Native",
+            "categories": "frontend",
+            "description": "Final Submission Dicoding Front-End Developer Expert",
+            "imageUrl": [{
+                "image": "../images/projects/resto-app.jpg"
+            },{
+                "image": "../images/projects/resto-app.jpg"
+            }],
+            "url": "https://github.com/afifmakarim/restaurant-pwa"
+        },
+        {
+            "name": "ExpressJS JWT CRUD",
+            "platform": "API",
+            "framework": "ExpressJS",
+            "categories": "backend",
+            "description": "Exercise project to create CRUD API using JWT Authentication",
+            "imageUrl": [{
+                "image": "../images/projects/jwt-be.jpg"
+            },{
+                "image": "../images/projects/jwt-be.jpg"
+            }],
+            "url": "https://github.com/afifmakarim/jwt-backend-api"
+        },
+        {
+            "name": "TinroPOS",
+            "platform": "Web",
+            "framework": "ReactJS",
+            "categories": "frontend",
+            "description": "Exercise project to convert design to react component & learn state management using react-redux",
+            "imageUrl": [{
+                "image": "../images/projects/tinropos.jpg"
+            },{
+                "image": "../images/projects/tinropos-1.jpg"
+            }],
+            "url": "https://github.com/afifmakarim/tinropos-reactjs"
+        },
+        {
+            "name": "CMS Apps",
+            "platform": "Web",
+            "framework": "ReactJS",
+            "categories": "frontend",
+            "description": "Exercise project to build CMS using reactJS with JWT Backend",
+            "imageUrl": [{
+                "image": "../images/projects/cms-apps.jpg"
+            },{
+                "image": "../images/projects/cms-apps-1.jpg"
+            }],
+            "url": "https://github.com/afifmakarim/cms-apps"
+        },
+        {
+            "name": "Suikosource Scraper",
+            "platform": "API",
+            "framework": "nodeJS",
+            "categories": "backend",
+            "description": "simple scraper 108 stars of destiny from suikosource.com using cheerio",
+            "imageUrl": [{
+                "image": "../images/projects/suikosource.jpg"
+            },{
+                "image": "../images/projects/suikosource.jpg"
+            }],
+            "url": "https://github.com/afifmakarim/suikosource-scraper"
+        },
+        {
+            "name": "LinkAja Binding Web Clone",
+            "platform": "Web",
+            "framework": "svelteJS",
+            "categories": "frontend",
+            "description": "Exercise project to clone LinkAja binding web and learn basic svelteJS",
+            "imageUrl": [{
+                "image": "../images/projects/otp-page.jpg"
+            },{
+                "image": "../images/projects/consent-page.jpg"
+            }],
+            "url": "https://github.com/afifmakarim/la-binding-clone"
+        },
+        {
+            "name": "Guess the Anime",
+            "platform": "LINE Messenger",
+            "framework": "CodeIgniter",
+            "categories": "backend",
+            "description": "Final Submission Dicoding LINE Chat Bot",
+            "imageUrl": [{
+                "image": "../images/projects/gta-1.jpg"
+            },{
+                "image": "../images/projects/gta.jpg"
+            }],
+            "url": "https://liff.line.me/1645278921-kWRPP32q/?accountId=yhb8963q"
+        }
+    ],
+    "experience": [{
+            "name": "PT. Astra Graphia Information Technology",
+            "startDate": "Februari 2019",
+            "endDate": "Februari 2020",
+            "role": "PHP Programmer"
+        },
+        {
+            "name": "PT. Fintek Karya Nusantara",
+            "startDate": "Februari 2020",
+            "endDate": "Present",
+            "role": "BAU Integration Associate"
+        }
+    ],
+    "certification": [{
+            "name": "Become Front-End Developer Expert",
+            "corp": "Dicoding",
+            "proejct": "Restaurant PWA web using native HTML, CSS, Javascript"
+        },
+        {
+            "name": "Fullstack Javascript Developer",
+            "corp": "BWA",
+            "proejct": "Website Travel StayCation using MERN Stack"
+        },
+        {
+            "name": "Building LINE Chatbot",
+            "corp": "Dicoding",
+            "proejct": "Guess the anime BOT using CodeIgniter"
+        }
+    ],
+    "social": [{
+        "name":"LinkedIn",
+        "url":"https://www.linkedin.com/in/afif-makarim-21b270167/"
+    },{
+        "name":"Github",
+        "url":"https://github.com/afifmakarim"
+    },{
+        "name":"Instagram",
+        "url":"https://www.instagram.com/affmakarim88/"
+    }]
+}

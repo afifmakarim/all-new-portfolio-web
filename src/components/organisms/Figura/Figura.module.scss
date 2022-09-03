@@ -1,0 +1,18 @@
+.btn {
+  width: 12rem;
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
+}
+
+.image {
+  width: 25rem;
+}
+
+.section {
+  background-color: rgba(230, 230, 247, 0);
+  opacity: 1;
+  background-image: radial-gradient(#44658f 1px, transparent 1px),
+    radial-gradient(#44658f 1px, rgba(230, 230, 247, 0) 1px);
+  background-size: 40px 40px;
+  background-position: 0 0, 20px 20px;
+}
