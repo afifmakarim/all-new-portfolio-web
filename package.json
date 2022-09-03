@@ -15,6 +15,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.4",
     "bootstrap": "^5.2.0",
     "boxicons": "^2.1.2",
     "classnames": "^2.3.1",
@@ -29,10 +30,10 @@
     "gatsby-transformer-json": "^4.22.0",
     "gatsby-transformer-sharp": "^4.21.0",
     "react": "^18.1.0",
+    "react-awesome-reveal": "^4.0.1",
     "react-bootstrap": "^2.5.0",
     "react-dom": "^18.1.0",
     "react-helmet": "^6.1.0",
-    "react-reveal": "^1.2.2",
     "sass": "^1.54.6",
     "typewriter-effect": "^2.19.0"
   },

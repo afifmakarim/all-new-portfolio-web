@@ -1,7 +1,7 @@
 import * as React from "react";
 import type { HeadFC } from "gatsby";
 import "../styles/global.scss";
-const Fade = require("react-reveal/Fade");
+import { Fade } from "react-awesome-reveal";
 import Navigation from "../components/organisms/Navigation";
 import Figura from "../components/organisms/Figura";
 import Project from "../components/organisms/Project";
@@ -28,7 +28,7 @@ const IndexPage = () => {
 
         <Navigation />
         <Figura />
-        <Fade bottom>
+        <Fade direction="up" triggerOnce>
           <Specialization />
           <Project title="Personal Project" isPro={false} />
           <Project title="Professional Project" isPro={true} />
