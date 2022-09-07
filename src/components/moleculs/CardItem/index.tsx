@@ -9,6 +9,7 @@ interface CardItemPropsTypes {
   framework: string;
   description: string;
   data: ProjectItemTypes;
+  year: string;
 }
 export default function CardItem({
   title,
@@ -16,12 +17,14 @@ export default function CardItem({
   framework,
   description,
   data,
+  year,
 }: CardItemPropsTypes) {
   const [modalShow, setModalShow] = useState(false);
 
   return (
     <>
       <div className={styles.card} onClick={() => setModalShow(true)}>
+        <div className={styles.year}>{year}</div>
         <img src={image} alt="" style={{ objectFit: "cover" }} />
         <div
           className={styles.content}

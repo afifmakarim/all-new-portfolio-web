@@ -21,6 +21,7 @@ export interface ProjectItemTypes {
   description: string;
   categories: string;
   url: string;
+  year: string;
 }
 export default function Project({ title, isPro }: ProjectPropsTypes) {
   const [categories, setCategories] = useState("all");
@@ -29,6 +30,7 @@ export default function Project({ title, isPro }: ProjectPropsTypes) {
       constantJson {
         id
         projects {
+          year
           name
           platform
           url
@@ -111,6 +113,7 @@ export default function Project({ title, isPro }: ProjectPropsTypes) {
                     image={item.imageUrl[0].image.childImageSharp.original.src}
                     framework={`${item.framework} - ${item.platform}`}
                     description={item.description}
+                    year={item.year}
                   />
                 )
               )}

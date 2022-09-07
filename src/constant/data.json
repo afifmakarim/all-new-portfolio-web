@@ -19,6 +19,7 @@
         }
     ],
     "projects": [{
+            "year":"2018",
             "name": "Budayaku",
             "platform": "Web",
             "categories": "frontend",
@@ -32,6 +33,7 @@
             "url": "https://github.com/afifmakarim/web-budayaku-code-igniter"
         },
         {
+            "year":"2018",
             "name": "Suikoden Guide",
             "platform": "Android Apps",
             "categories": "frontend",
@@ -45,6 +47,7 @@
             "url": "https://apkpure.com/suikoden-guide/io.rojofactory.suikoden"
         },
         {
+            "year":"2019",
             "name": "Tamako BOT",
             "platform": "LINE Messenger",
             "framework": "CodeIgniter",
@@ -58,6 +61,7 @@
             "url": "https://line.me/R/ti/p/%40xxs7002u"
         },
         {
+            "year":"2020",
             "name": "StayCation",
             "platform": "Web",
             "framework": "ReactJS",
@@ -71,6 +75,7 @@
             "url": "https://github.com/afifmakarim/bwamern"
         },
         {
+            "year":"2020",
             "name": "Restaurant App",
             "platform": "PWA",
             "framework": "Native",
@@ -84,6 +89,7 @@
             "url": "https://github.com/afifmakarim/restaurant-pwa"
         },
         {
+            "year":"2021",
             "name": "ExpressJS JWT CRUD",
             "platform": "API",
             "framework": "ExpressJS",
@@ -97,6 +103,7 @@
             "url": "https://github.com/afifmakarim/jwt-backend-api"
         },
         {
+            "year":"2022",
             "name": "TinroPOS",
             "platform": "Web",
             "framework": "ReactJS",
@@ -110,6 +117,7 @@
             "url": "https://github.com/afifmakarim/tinropos-reactjs"
         },
         {
+            "year":"2022",
             "name": "CMS Apps",
             "platform": "Web",
             "framework": "ReactJS",
@@ -123,6 +131,7 @@
             "url": "https://github.com/afifmakarim/cms-apps"
         },
         {
+            "year":"2020",
             "name": "Suikosource Scraper",
             "platform": "API",
             "framework": "nodeJS",
@@ -136,6 +145,7 @@
             "url": "https://github.com/afifmakarim/suikosource-scraper"
         },
         {
+            "year":"2022",
             "name": "LinkAja Binding Web Clone",
             "platform": "Web",
             "framework": "svelteJS",
@@ -149,6 +159,7 @@
             "url": "https://github.com/afifmakarim/la-binding-clone"
         },
         {
+            "year":"2019",
             "name": "Guess the Anime",
             "platform": "LINE Messenger",
             "framework": "CodeIgniter",
