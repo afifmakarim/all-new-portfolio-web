@@ -171,6 +171,20 @@
                 "image": "../images/projects/gta.jpg"
             }],
             "url": "https://liff.line.me/1645278921-kWRPP32q/?accountId=yhb8963q"
+        },
+        {
+            "year":"2022",
+            "name": "STOREGG - BWA",
+            "platform": "Web",
+            "framework": "React/NextJS",
+            "categories": "frontend",
+            "description": "Front End Project From kelas BWA Fullstack Developer 2021 - Website Top Up Voucher Game",
+            "imageUrl": [{
+                "image": "../images/projects/storegg.jpg"
+            },{
+                "image": "../images/projects/storegg1.jpg"
+            }],
+            "url": "https://github.com/afifmakarim/fe-storegg-bwa"
         }
     ],
     "experience": [{
