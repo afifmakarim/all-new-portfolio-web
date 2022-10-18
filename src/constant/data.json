@@ -185,6 +185,20 @@
                 "image": "../images/projects/storegg1.jpg"
             }],
             "url": "https://github.com/afifmakarim/fe-storegg-bwa"
+        },
+        {
+            "year":"2022",
+            "name": "Kawinin Apps",
+            "platform": "Web",
+            "framework": "React/NextJS",
+            "categories": "frontend",
+            "description": "Exercise project to learn fundamental NextJS",
+            "imageUrl": [{
+                "image": "../images/projects/ka-1.jpg"
+            },{
+                "image": "../images/projects/ka-2.jpg"
+            }],
+            "url": "https://github.com/afifmakarim/kawinin-apps"
         }
     ],
     "experience": [{
