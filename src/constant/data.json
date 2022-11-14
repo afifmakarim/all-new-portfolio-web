@@ -199,6 +199,20 @@
                 "image": "../images/projects/ka-2.jpg"
             }],
             "url": "https://github.com/afifmakarim/kawinin-apps"
+        },
+        {
+            "year":"2022",
+            "name": "Fake Store Ecommerce",
+            "platform": "Web",
+            "framework": "React/NextJS",
+            "categories": "frontend",
+            "description": "Exercise project to learn fundamental NextJS",
+            "imageUrl": [{
+                "image": "../images/projects/fs-1.jpg"
+            },{
+                "image": "../images/projects/fs-2.jpg"
+            }],
+            "url": "https://github.com/afifmakarim/fakestore-portfolio"
         }
     ],
     "experience": [{
